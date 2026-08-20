@@ -1,0 +1,6 @@
+{
+  "name": "CineScope — Movie Discovery",
+  "description": "A modern cinematic movie discovery platform with search, filters, trailers, cast details, trending lists, top-rated movies, watchlist, and favorites.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
